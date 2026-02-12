@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Liberty",
+  "base_artist": "ど～ぱみん",
+  "createdAt": "2026-02-12T15:46:06.815503Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Liberty Ship",
+      "artist": "The La’s",
+      "has_synced": true,
+      "path": "select/01_Liberty_Ship_The_La’s.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Liberty",
+      "artist": "Olive",
+      "has_synced": false,
+      "path": "select/02_Liberty_Olive.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Liberty",
+      "artist": "Journey",
+      "has_synced": false,
+      "path": "select/03_Liberty_Journey.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Statue Of Liberty",
+      "artist": "Joe Jackson",
+      "has_synced": false,
+      "path": "select/04_Statue_Of_Liberty_Joe_Jackson.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Statue of Liberty",
+      "artist": "XTC",
+      "has_synced": true,
+      "path": "select/05_Statue_of_Liberty_XTC.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tastes Like Liberty",
+      "artist": "The Simpsons",
+      "has_synced": false,
+      "path": "select/06_Tastes_Like_Liberty_The_Simpsons.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Liberty Rises a Diagonal Flame",
+      "artist": "Abigor",
+      "has_synced": false,
+      "path": "select/07_Liberty_Rises_a_Diagonal_Flame_Abigor.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Limits of Liberty",
+      "artist": "Kreator",
+      "has_synced": false,
+      "path": "select/08_Limits_of_Liberty_Kreator.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Limits of Liberty - 2018 - Remaster",
+      "artist": "Kreator",
+      "has_synced": true,
+      "path": "select/09_Limits_of_Liberty_-_2018_-_Remaster_Kreator.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Liberty and Justice",
+      "artist": "Bathory",
+      "has_synced": false,
+      "path": "select/10_Liberty_and_Justice_Bathory.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "East Liberty",
+      "artist": "PARTYNEXTDOOR",
+      "has_synced": true,
+      "path": "select/11_East_Liberty_PARTYNEXTDOOR.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Liberty Bell",
+      "artist": "The Gathering",
+      "has_synced": true,
+      "path": "select/12_Liberty_Bell_The_Gathering.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Semblance of Liberty",
+      "artist": "Epica",
+      "has_synced": true,
+      "path": "select/13_Semblance_of_Liberty_Epica.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Liberty & Justice",
+      "artist": "Agnostic Front",
+      "has_synced": false,
+      "path": "select/14_Liberty_&_Justice_Agnostic_Front.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Liberty",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/15_Liberty_Stratovarius.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Liberty",
+      "artist": "ど～ぱみん",
+      "has_synced": false,
+      "path": "select/pl_01_Liberty_ど~ぱみん.txt"
+    }
+  ]
+}
